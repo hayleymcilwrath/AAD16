@@ -41,6 +41,37 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 **The Author**: Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in **“The Deepest Days”**, NATIONAL GEOGRAPHIC, April 1965. Here he tells the dramatic story of finding the Girona.
 
+Atom screenshot
+
+I achieved this by adding headlines, paragraphs, list items and block quotes. Although I could not make this a perfect match as this will come later using CSS.
+
+We then started of team work exercises and this consisted of the class being put into teams of 4 and brainstorming ideas of space onto a mind map. This helped with making friends and getting to know my class mates. Once we had made several mind maps they were used to create an idea on an app or website relating to space, as Chris loved space!
+
+Our group created an app which was educational to kids but also a game which was a rocket were you had to shoot space related objects flying at it. A finger tap on the object destroyed it. We made the target audience 7-15 as we knew the app was more for the younger generation. 
+
+**29.09.2014 Friday lecture**
+-------------------------
+
+At fridays lecture we got told a brief overview of what we will be learning over the 12 weeks and also what Paul is looking from us as an individual. 
+
+We started by Paul telling us the importance to know the past before we can learn the future as he said " The value of a solid knowledge and understanding of the history of design cannot be understated". we looked at people such as Dieter Rams who was born in Germany in 1932 and created the for the Braun Radio. The next designer was Jonathan Ive who was influenced by Rams to invent the first IMac and IPod.
+
+Another designer who stood out was Russell Mills as I liked his design 9 inch nails. As I love the texture in his art work and how when you look closely you can see the point, line and plane in his pieces:
+
+
+
+
+**pictures of artwork**
+
+
+
+
+I also learned that Jonathan Ive was an English designer that created the first apple laptop and he would not of created this if he was not influenced by Dieter Rams. Understanding the history helps with future design and can help with creating the next huge big thing.
+
+We then looked a guy called  Guillermo del Toro who is an example as he used past artists to produce the horrifying monsters in **Pacific Rim** He's now producing FX Networks such as vampire themed TV movie The Strain and prepping Jessica Chastain's 2014 horror movie Crimson Peak. This just goes to show what you can do with history knowledge. 
+
+
+
 
 
 
