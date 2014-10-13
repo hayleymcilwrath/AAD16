@@ -41,8 +41,7 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 **The Author**: Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in **“The Deepest Days”**, NATIONAL GEOGRAPHIC, April 1965. Here he tells the dramatic story of finding the Girona.
 
-Atom screenshot
-
+![Atom Screenshot](https://cloud.githubusercontent.com/assets/8985471/4621578/790b4c8c-532d-11e4-8cb5-d90d5904e67d.png)
 I achieved this by adding headlines, paragraphs, list items and block quotes. Although I could not make this a perfect match as this will come later using CSS.
 
 We then started of team work exercises and this consisted of the class being put into teams of 4 and brainstorming ideas of space onto a mind map. This helped with making friends and getting to know my class mates. Once we had made several mind maps they were used to create an idea on an app or website relating to space, as Chris loved space!
@@ -59,9 +58,15 @@ We started by Paul telling us the importance to know the past before we can lear
 Another designer who stood out was Russell Mills as I liked his design 9 inch nails. As I love the texture in his art work and how when you look closely you can see the point, line and plane in his pieces:
 
 
+![Russell Mills work- 9 inch nails](https://cloud.githubusercontent.com/assets/8985471/4621527/88d758aa-532c-11e4-9d44-705091ab3691.png)
 
 
-**pictures of artwork**
+
+![Russell Mills work- 9 inch nails](https://cloud.githubusercontent.com/assets/8985471/4621528/8905c992-532c-11e4-91a0-a2109df4b3a4.png)
+
+I love how I can now look at a peice of art and I can see point, plane and lines and I can examine it in so much more depth and I love how I have learnt to see it in this way. It excites me!
+
+
 
 
 
@@ -70,11 +75,9 @@ I also learned that Jonathan Ive was an English designer that created the first 
 
 We then looked a guy called  Guillermo del Toro who is an example as he used past artists to produce the horrifying monsters in **Pacific Rim** He's now producing FX Networks such as vampire themed TV movie The Strain and prepping Jessica Chastain's 2014 horror movie Crimson Peak. This just goes to show what you can do with history knowledge. 
 
+My favourite peice from Guillermo del Toro even though its just his quick sketch/journal book:
 
-
-
-
-
+![Guillermo Del Toro](https://cloud.githubusercontent.com/assets/8985471/4621455/7fdb09aa-532b-11e4-91a5-990329a23a47.png)
 
 
 
