@@ -86,12 +86,15 @@ My favourite peice from Guillermo del Toro even though its just his quick sketch
 
 
 
-
-
-
-
 Week 2
 ------
+
+This week consisted of making a hello world page with Tim who kindly created the page and we then as individuals had to add our own content and short bio about ourselves. I enjoyed doing this as it gave me a feel of my own personal profile being out there for the world to see. This was my final creation below:
+
+![screen shot 2014-10-17 at 12 17 24](https://cloud.githubusercontent.com/assets/8985471/4677973/4cc1175a-55ef-11e4-9d07-6583cf399c0d.png)
+
+
+
 
 Week 3
 ------
