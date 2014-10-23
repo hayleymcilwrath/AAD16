@@ -109,7 +109,23 @@ Roof of the Cave of Altamira and other famous cave paintings:
 ![cave painting](https://cloud.githubusercontent.com/assets/8985471/4746298/697bf43a-5a47-11e4-9221-282c2ce11849.jpg)
 ![reproduction_cave_of_altamira_02](https://cloud.githubusercontent.com/assets/8985471/4746302/75f4480c-5a47-11e4-942c-f855dc5688e0.jpg)
 
-I love the way the paintings are so natural and just used by mans hand onto a natural rock. 
+I love the way the paintings are so natural and just used by mans hand onto a natural rock. i also love modern day graffiti as cave paintings has had an impact on todays art and loads of artist have found inspiration in this:
+
+Banksy:
+![banksy_october_41 copy](https://cloud.githubusercontent.com/assets/8985471/4746425/5fca4188-5a49-11e4-86fc-02a807a51f7a.jpg)
+![bhchdtlciaalalt copy](https://cloud.githubusercontent.com/assets/8985471/4746426/5fcaecd2-5a49-11e4-969b-14f1d7217264.jpg)
+
+Banksy, a street artist whose identity remains unknown is very well known for his striking images, often combined with slogans. His work often engages political themes, satirically critiquing war, capitalism, hypocrisy and greed. This type of work tends to get a lot of attention!
+
+
+
+
+
+
+
+
+
+
 
 Week 3
 ------
