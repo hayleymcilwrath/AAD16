@@ -112,10 +112,15 @@ Roof of the Cave of Altamira and other famous cave paintings:
 I love the way the paintings are so natural and just used by mans hand onto a natural rock. i also love modern day graffiti as cave paintings has had an impact on todays art and loads of artist have found inspiration in this:
 
 Banksy:
+--------
+![images](https://cloud.githubusercontent.com/assets/8985471/4746531/c38575fc-5a4a-11e4-919b-361c950bbed0.jpg)
+
+Banksy, a street artist who unlike many other famous artists, Bansky has tried to keep his identity under wraps for years. Yet, with such a controversial reputation, it’s no wonder that keeping his identity a mystery has proven to be a challenge. He has featured his work around the world, raising eyebrows whilst gaining world-wide recognition and hundreds of thousands of followers. his work consists of political themes, satirically critiquing war, capitalism, hypocrisy and greed. This type of work tends to get a lot of attention!
+
 ![banksy_october_41 copy](https://cloud.githubusercontent.com/assets/8985471/4746425/5fca4188-5a49-11e4-86fc-02a807a51f7a.jpg)
 ![bhchdtlciaalalt copy](https://cloud.githubusercontent.com/assets/8985471/4746426/5fcaecd2-5a49-11e4-969b-14f1d7217264.jpg)
+![banksy-girl-heart-balloon-300x207](https://cloud.githubusercontent.com/assets/8985471/4746532/c95271ba-5a4a-11e4-8a21-0f1c47a92fdd.jpg)
 
-Banksy, a street artist whose identity remains unknown is very well known for his striking images, often combined with slogans. His work often engages political themes, satirically critiquing war, capitalism, hypocrisy and greed. This type of work tends to get a lot of attention!
 
 
 
