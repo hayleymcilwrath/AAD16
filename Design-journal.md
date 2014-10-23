@@ -94,7 +94,22 @@ This week consisted of making a hello world page with Tim who kindly created the
 ![screen shot 2014-10-17 at 12 17 24](https://cloud.githubusercontent.com/assets/8985471/4677973/4cc1175a-55ef-11e4-9d07-6583cf399c0d.png)
 
 
+Cave Paintings
+--------------
 
+##Prehistoric Grafitti##
+
+Today we learned about cave paintings and early man graffiti which I found really interesting as I have always enjoyed looking at prehistoric drawings and he design of the cave paintings (always have loved learning about the past). These were thousands of years old and held a lot of expression through man in those days. Famous cave paintings and  Ancient rock art made with images of human hand stencils and depictions of wild animals can be found in the cave Cantabria as its very well known for its Cave paintings of various animals of the time such as bison, horses, goats, deer, cattle, hands and other paintings.
+
+Roof of the Cave of Altamira and other famous cave paintings:
+
+
+![15512_tourismcarousel](https://cloud.githubusercontent.com/assets/8985471/4745915/62825fda-5a41-11e4-8447-ca0e08967952.jpg)
+![african_cave_paintings](https://cloud.githubusercontent.com/assets/8985471/4746032/2e25340e-5a43-11e4-9444-4153ac371c1a.jpg)
+![cave painting](https://cloud.githubusercontent.com/assets/8985471/4746298/697bf43a-5a47-11e4-9221-282c2ce11849.jpg)
+![reproduction_cave_of_altamira_02](https://cloud.githubusercontent.com/assets/8985471/4746302/75f4480c-5a47-11e4-942c-f855dc5688e0.jpg)
+
+I love the way the paintings are so natural and just used by mans hand onto a natural rock. 
 
 Week 3
 ------
