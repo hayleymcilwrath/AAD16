@@ -122,12 +122,26 @@ Banksy, a street artist who unlike many other famous artists, Bansky has tried t
 ![banksy-girl-heart-balloon-300x207](https://cloud.githubusercontent.com/assets/8985471/4746532/c95271ba-5a4a-11e4-8a21-0f1c47a92fdd.jpg)
 
 
+Golden Ratio
+------------
+
+ >“Without mathematics there is no art,”  said Luca Pacioli, a contemporary of Da Vinci.
+
+The golden ration is abundant in nature and is used by many artists as inspiration comes from nature, art and music ect.
 
 
+Hand written Books
+=================
+Egyption writting
+=================
+Greek
+=====
+Roman
+======
+Chinese
+=======
 
-
-
-
+But by the mid 15th Century that was about to dramatically change and the days of the Illuminated Scripts were numbered
 
 
 
