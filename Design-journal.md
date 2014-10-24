@@ -129,6 +129,11 @@ Golden Ratio
 
 The golden ration is abundant in nature and is used by many artists as inspiration comes from nature, art and music ect.
 
+![golden-section-mean-ratio-hurrican-weather](https://cloud.githubusercontent.com/assets/8985471/4751916/0e897180-5aa4-11e4-87e3-ef0eb2912ef1.jpg)
+![sunflower](https://cloud.githubusercontent.com/assets/8985471/4751918/15afecbe-5aa4-11e4-95a5-ef7c3f42d4b2.jpg)
+![thumb](https://cloud.githubusercontent.com/assets/8985471/4751920/195a61c8-5aa4-11e4-9718-e00cb201dd0f.jpg)
+![golden-section-mean-ratio-hurrican-weather](https://cloud.githubusercontent.com/assets/8985471/4751923/1b5ba5ae-5aa4-11e4-8256-fbae1d853bc9.jpg)
+
 
 Hand written Books
 =================
