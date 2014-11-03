@@ -93,6 +93,25 @@ This week consisted of making a hello world page with Tim who kindly created the
 
 ![screen shot 2014-10-17 at 12 17 24](https://cloud.githubusercontent.com/assets/8985471/4677973/4cc1175a-55ef-11e4-9d07-6583cf399c0d.png)
 
+To achieve my hello world page I had to do some research on different designers to build up my knowledge on the way they presented themselves on the internet as I wanted to look professional but also let my personality shine through.
+
+The first designer I found was Jessica Hitche
+![screen](https://cloud.githubusercontent.com/assets/8985471/4888402/9394fb1a-638c-11e4-881c-cb60090865d9.png)
+
+I liked Jessica's style of her writing and how she came across professional yet I wanted to read on through her bio because it was humours and caught my attention.
+
+For more of the style of my hello world page I found a designer called Adham Dannaway. I liked the style of his text as its short and sweet yet to the point but it still looks good:
+![great-author-bios](https://cloud.githubusercontent.com/assets/8985471/4889084/dd8a5d5e-6392-11e4-9cba-f9628b2ee8b0.jpg)
+
+This influenced my bio layout as I liked the way he had his text positioned.
+​Overall I feel these two designers influenced me and helped me develop my overall page. As i feel I come across professional, yet it lets my personality shine through.
+
+
+
+
+
+
+
 
 Cave Paintings
 --------------
