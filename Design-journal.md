@@ -6,7 +6,7 @@ Design Journal for introduction to Communication Design
 Week 1
 ------
 
-In week 1 of Ixd we got a brief introduction of the course and course contents. They told us what they expected off us and what we would been doing the rest of the week. We then got told to download a programme named 'Atom'. Tim then took us through briefly the programme and gave us some tips on atom. For example if you hit *view* and then *Toggle Soft Wrap* it converts all the writing to the one side allowing you to view all your writing. Makes life easier! another tip that has helped me is *Shift-Control-M* which allows you to view your final piece of work. 
+In week 1 of Ixd we got a brief introduction of the course and course contents. They told us what they expected off us and what we would been doing the rest of the week. We then got told to download a programme named 'Atom'. Tim then took us through briefly the programme and gave us some tips on atom. For example if you hit *view* and then *Toggle Soft Wrap* it converts all the writing to the one side allowing you to view all your writing. Makes life easier! another tip that has helped me is *Shift-Control-M* which allows you to view your final piece of work.
 
 As our first project Paul gave us a text file which we then had to render what we seen in markdown. This is my final piece as of below:
 
@@ -29,7 +29,7 @@ A WILD NORTH WIND lashed the galleass as she sailed eastward across the top of I
 
 Ahead, not thirty miles away, lay Scotland's west coast and sanctuary for the vessels company, survivors of Spain's once arrogant Armada. A few more miles and the Girona would be clear of Ireland; a few more hours would make good an escape begun nearly three months before. Oarsmen battled the wind with flailing sweeps, struggling vainly to steer the ship away from the shore.
 
-The wind won. White water boiled off the starboard bow. A scream from the lookout brought sailors racing to drop anchor. Too late. A fang of rock rising from the sea ripped the Girona's flank; she gutted herself upon it. Her back broke, her side opened, her entrails burst from her. Cannons, cannon balls, small arms, stores, coffers and 1,300 sick men, too exhausted to struggle, sank into the convulsive surf. 
+The wind won. White water boiled off the starboard bow. A scream from the lookout brought sailors racing to drop anchor. Too late. A fang of rock rising from the sea ripped the Girona's flank; she gutted herself upon it. Her back broke, her side opened, her entrails burst from her. Cannons, cannon balls, small arms, stores, coffers and 1,300 sick men, too exhausted to struggle, sank into the convulsive surf.
 
 **Four centuries later the shipwreck was discovered under 30 feet of icy water, treasures lost on that fateful day included:**
 
@@ -46,12 +46,12 @@ I achieved this by adding headlines, paragraphs, list items and block quotes. Al
 
 We then started of team work exercises and this consisted of the class being put into teams of 4 and brainstorming ideas of space onto a mind map. This helped with making friends and getting to know my class mates. Once we had made several mind maps they were used to create an idea on an app or website relating to space, as Chris loved space!
 
-Our group created an app which was educational to kids but also a game which was a rocket were you had to shoot space related objects flying at it. A finger tap on the object destroyed it. We made the target audience 7-15 as we knew the app was more for the younger generation. 
+Our group created an app which was educational to kids but also a game which was a rocket were you had to shoot space related objects flying at it. A finger tap on the object destroyed it. We made the target audience 7-15 as we knew the app was more for the younger generation.
 
 **29.09.2014 Friday lecture**
 -------------------------
 
-At fridays lecture we got told a brief overview of what we will be learning over the 12 weeks and also what Paul is looking from us as an individual. 
+At fridays lecture we got told a brief overview of what we will be learning over the 12 weeks and also what Paul is looking from us as an individual.
 
 We started by Paul telling us the importance to know the past before we can learn the future as he said " The value of a solid knowledge and understanding of the history of design cannot be understated". we looked at people such as Dieter Rams who was born in Germany in 1932 and created the for the Braun Radio. The next designer was Jonathan Ive who was influenced by Rams to invent the first IMac and IPod.
 
@@ -73,7 +73,7 @@ I love how I can now look at a peice of art and I can see point, plane and lines
 
 I also learned that Jonathan Ive was an English designer that created the first apple laptop and he would not of created this if he was not influenced by Dieter Rams. Understanding the history helps with future design and can help with creating the next huge big thing.
 
-We then looked a guy called  Guillermo del Toro who is an example as he used past artists to produce the horrifying monsters in **Pacific Rim** He's now producing FX Networks such as vampire themed TV movie The Strain and prepping Jessica Chastain's 2014 horror movie Crimson Peak. This just goes to show what you can do with history knowledge. 
+We then looked a guy called  Guillermo del Toro who is an example as he used past artists to produce the horrifying monsters in **Pacific Rim** He's now producing FX Networks such as vampire themed TV movie The Strain and prepping Jessica Chastain's 2014 horror movie Crimson Peak. This just goes to show what you can do with history knowledge.
 
 My favourite peice from Guillermo del Toro even though its just his quick sketch/journal book:
 
@@ -153,6 +153,80 @@ But by the mid 15th Century that was about to dramatically change and the days o
 
 Week 3
 ------
+**Group presentation research:**
+------------------------------
+
+This week as part of our overal mark we had to make a group presentation, and our group  on The Pioneers of Digital Design.
+
+My two designers was *John Whitney* and *Zuzana Licko*
+
+***Slide 1***
+
+-John Whitney was born in 1917 and died in 1995  which weirdly was my birth year.
+-He is known as one of the true pioneers of computer generated art.
+
+-He taught the first computer graphics class at UCLA in 1972
+
+-He had a lot of knowledge on Computer Graphics
+
+-he developed animation techniques which he made into commercials for the t.v which was amazing at this point in time.
+
+-he founded Motion Graphics company which he used a mechanical analogue computer of his own invention to create motion picture and television.
+
+-He continued on to write the amazing book called
+Digital Harmony
+some of his inspiring work is on the next slide
+
+My research Websites were:
+
+http://en.wikipedia.org/wiki/John_Whitney_(animator)
+http://www.youtube.com/watch?v=TbV7loKp69s
+http://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html
+
+***Slide 2***
+
+-he created a computerized instrument on which he composed a visual and musical output in real time which you can see ^^
+
+-this was created as he operated one of the first computer-graphics engines.
+
+My main research for this slide was the book Digital Harmoney which give me background knowledge on his work and how he created his work.
+http://www.amazon.co.uk/Digital-Harmony-Complementarity-Music-Visual/dp/007070015X
+
+***Slide 3-***
+was just another photo of his work
+
+***Slide 4-***
+
+-Suzana Licko is a type face designer.
+ born in 1961
+
+-She started a design company Em -i- gre Graphics in 1984 which became extremely well known world wide.
+
+-She was greatly inspired by the new technical possibilities of the Macintosh computer.
+
+-this caused her to produce her first typeface
+on her next slide
+
+***Slide 5-***
+
+-Very first font she made
+and ended up designing more than two dozen typeface families
+
+-She created this typeface by sticking to the limitations,
+
+-which didn't allow curv-a-ture.
+
+[Basicly this slide consisted of describing her work and the way Zuzana did not use curvs in her as she used pixels on the macintosh]
+
+***Slide 6-***
+
+Another piece of work she created was taking fonts and creating patterns with them
+
+This consisted of describing another peice of Zuzanas work as she would take a letter form and twist and rotate it which made really interesting patterns
+http://michellehippy.wordpress.com/2013/03/09/unit-1-1-research-hypnopaedia-zuzana-licko/
+
+I feel our overall presentation went well and although I was really nervous, I presented it with confidence. The thing I need to improve on is taking my time when reading things out and not rushing through it due to nerves.
+
 
 Week 4
 ------
