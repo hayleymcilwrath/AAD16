@@ -172,6 +172,53 @@ But by the mid 15th Century that was about to dramatically change and the days o
 
 Week 3
 ------
+Gutenburg and Beyond
+--------------------
+
+This week we coverd the pioneers of type design, looked into the brief history and looked at some examples of type design. We also coverd The invention of the printing press and the impact it had. We also looked at how the printing press had shaped the design of type.
+
+Scriptoruim which is monks writing the inslur script 600-850AD
+The inslur script was a medieval script system originally used in Ireland which spread, by way of Anglo-Saxon England, to continental Europe under the influence of Irish Christianity.
+
+![bookofdurrowbeginmarkgospel](https://cloud.githubusercontent.com/assets/8985471/4983732/447c3c00-691d-11e4-93aa-721272b1fee5.jpg)
+
+Works written in Insular scripts commonly use large initial letters surrounded by red ink dots and usually every paragraph will start with a large letter:
+
+![script _chad-gospels](https://cloud.githubusercontent.com/assets/8985471/4983832/4ab4ac82-691e-11e4-8ab3-0ed213fd4686.jpg)
+
+
+
+
+ >*Type is the clothing for words*
+
+ >**Note to self** : Need to be careful on what tyoe writing you choose as every font you use gives off an impression!
+
+Blackletter
+============
+
+Blackletter, also known as Gothic script, is basiclly bold block writting. It continued to be used for the German language until the 20th century.
+
+
+
+
+
+
+![620px-calligraphy malmesbury bible arp](https://cloud.githubusercontent.com/assets/8985471/4983998/a9819436-691f-11e4-8e8d-85b557c348ab.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Group presentation research:**
 ------------------------------
 
