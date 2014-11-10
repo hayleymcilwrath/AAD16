@@ -156,7 +156,7 @@ The golden ration is abundant in nature and is used by many artists as inspirati
 
 Hand written Books
 =================
-Egyption writting
+Egyptian writing
 =================
 Greek
 =====
@@ -172,12 +172,12 @@ But by the mid 15th Century that was about to dramatically change and the days o
 
 Week 3
 ------
-Gutenburg and Beyond
+Guttenburg and Beyond
 --------------------
 
-This week we coverd the pioneers of type design, looked into the brief history and looked at some examples of type design. We also coverd The invention of the printing press and the impact it had. We also looked at how the printing press had shaped the design of type.
+This week we covered the pioneers of type design, looked into the brief history and looked at some examples of type design. We also covered The invention of the printing press and the impact it had. We also looked at how the printing press had shaped the design of type.
 
-Scriptoruim which is monks writing the inslur script 600-850AD
+Scriptorium which is monks writing the inslur script 600-850AD
 The inslur script was a medieval script system originally used in Ireland which spread, by way of Anglo-Saxon England, to continental Europe under the influence of Irish Christianity.
 
 ![bookofdurrowbeginmarkgospel](https://cloud.githubusercontent.com/assets/8985471/4983732/447c3c00-691d-11e4-93aa-721272b1fee5.jpg)
@@ -189,21 +189,39 @@ Works written in Insular scripts commonly use large initial letters surrounded b
 
 
 
- >*Type is the clothing for words*
-
- >**Note to self** : Need to be careful on what tyoe writing you choose as every font you use gives off an impression!
-
 Blackletter
 ============
 
-Blackletter, also known as Gothic script, is basiclly bold block writting. It continued to be used for the German language until the 20th century.
-
-
-
-
-
+Blackletter, also known as Gothic script, is basiclly bold block writing. It continued to be used for the German language until the 20th century. This is now known as Gothic Script.
 
 ![620px-calligraphy malmesbury bible arp](https://cloud.githubusercontent.com/assets/8985471/4983998/a9819436-691f-11e4-8e8d-85b557c348ab.jpg)
+
+
+Blackletter is sometimes called Old English, but it is not to be confused with the Old English language, popular now for writing titles and even tattoo artists would use this. Blackletter developed from Carolingian as an increasingly literate 12th-century Europe
+
+
+![piers_plowman_drolleries](https://cloud.githubusercontent.com/assets/8985471/4984138/1873cbd8-6921-11e4-98e4-13ae25c09214.gif)
+
+
+
+
+
+Type is the clothing for words
+===============================
+
+>**Note to self** : Need to be careful on what type writing you choose as every font you use gives off an impression!
+
+We then looked at how logos for branding use type and what impression. As they use primary colours and they give off the impression of plain boring logo's and fonts. They give the impression of
+
+
+![300px-burger_king_logo svg](https://cloud.githubusercontent.com/assets/8985471/4984344/f0e42642-6922-11e4-8e8c-22335db2f327.png)
+
+![mcdonalds_logo](https://cloud.githubusercontent.com/assets/8985471/4984345/f243a7f6-6922-11e4-9db0-13b725861806.png)
+
+![kfc-sogood-vector-logo](https://cloud.githubusercontent.com/assets/8985471/4984347/f3fda196-6922-11e4-98a0-e964c069702d.png)
+
+
+
 
 
 
