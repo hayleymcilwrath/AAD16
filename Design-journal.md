@@ -216,7 +216,8 @@ We then looked at how logos for branding use type and what impression. As they u
 
 ![300px-burger_king_logo svg](https://cloud.githubusercontent.com/assets/8985471/4984344/f0e42642-6922-11e4-8e8c-22335db2f327.png)
 
-![mcdonalds_logo](https://cloud.githubusercontent.com/assets/8985471/4984345/f243a7f6-6922-11e4-9db0-13b725861806.png)
+![mcdonalds-3d-logo](https://cloud.githubusercontent.com/assets/8985471/4984904/e69adc62-6927-11e4-943c-2b2dc0b43ccb.jpg)
+
 
 ![kfc-sogood-vector-logo](https://cloud.githubusercontent.com/assets/8985471/4984347/f3fda196-6922-11e4-98a0-e964c069702d.png)
 
