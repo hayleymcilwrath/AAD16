@@ -128,7 +128,7 @@ Roof of the Cave of Altamira and other famous cave paintings:
 ![cave painting](https://cloud.githubusercontent.com/assets/8985471/4746298/697bf43a-5a47-11e4-9221-282c2ce11849.jpg)
 ![reproduction_cave_of_altamira_02](https://cloud.githubusercontent.com/assets/8985471/4746302/75f4480c-5a47-11e4-942c-f855dc5688e0.jpg)
 
-I love the way the paintings are so natural and just used by mans hand onto a natural rock. i also love modern day graffiti as cave paintings has had an impact on todays art and loads of artist have found inspiration in this:
+I love the way the paintings are so natural and just used by mans hand onto a natural rock. I also love modern day graffiti as cave paintings has had an impact on todays art and loads of artist have found inspiration in this:
 
 Banksy:
 --------
@@ -211,7 +211,7 @@ Type is the clothing for words
 
 >**Note to self** : Need to be careful on what type writing you choose as every font you use gives off an impression!
 
-We then looked at how logos for branding use type and what impression. As they use primary colours and they give off the impression of plain boring logo's and fonts.
+We then looked at how logos for branding use type and what impression they give off. They give out the impression of **EAT ME** and we all know these logo's from our childhood. They take a low end restaurant and use big chunky fonts and bright primary colours to stand out and appeal to children and are known for cheap and cheerful food. they use mainly reds, yellows and blues and they keep to the point rather than adding detail.
 
 
 ![300px-burger_king_logo svg](https://cloud.githubusercontent.com/assets/8985471/4984344/f0e42642-6922-11e4-8e8c-22335db2f327.png)
@@ -223,13 +223,31 @@ We then looked at how logos for branding use type and what impression. As they u
 
 
 
-They give the impression of poor food as dear restaurants have more of a detailed logo and have fancier text and colour. They put more effort into these as they need to give off more of a impression towards their image.
+They give the impression of poor food as high end restaurants have more of a detailed logo and have fancier text and colour. They put more effort into these as they need to give off more of a impression towards their image. To show customers they have dear food. As font can tell a lot about a company and is very important.
 
 ![9882879](https://cloud.githubusercontent.com/assets/8985471/4984841/503bacc4-6927-11e4-938f-1854b7b81686.jpg)
 
-![fd_logo](https://cloud.githubusercontent.com/assets/8985471/4984842/513f882a-6927-11e4-97f9-79dfe3cf36bd.jpg)
+![fat-duck-heston-blumenthal-logo](https://cloud.githubusercontent.com/assets/8985471/4984955/6109fcee-6928-11e4-8569-86ede4b7180b.jpg)
 
 
+The discovery of Printing
+==========================
+**Moveable Type**
+
+This started of by documents being carved into stone but this tented to be very heavy and hard to store. The world's first known movable type system for printing was created in China around 1040 A.D this made the whole printing press more flexible.
+
+![screen shot 2014-11-10 at 23 01 37](https://cloud.githubusercontent.com/assets/8985471/4985473/d5826d86-692d-11e4-94c2-e9af567dcb39.png)
+
+Johannes Gutenberg 1395-1468
+============================
+
+Johannes Gutenburg created these hand cut letters into metal. He was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. he also created the first printed bible. Besides inventing the first movable printing machine he had many other contributions in the printing area. For example he used oil based ink and the wooden printing press. And also his inventions lead to mass production of books so the knowledge was spread more easily.
+
+![gutenburg](https://cloud.githubusercontent.com/assets/8985471/4985803/617ddd2c-6931-11e4-9ceb-de16243dc079.jpg)
+
+![gutenberg_bible _lenox_copy _new_york_public_library _2009 _pic_01](https://cloud.githubusercontent.com/assets/8985471/4985804/626fbad4-6931-11e4-8df1-36489dc0a7ae.jpg)
+
+![gutenburg 2](https://cloud.githubusercontent.com/assets/8985471/4985807/63b3ac0c-6931-11e4-8b1e-242ff8fc5639.jpg)
 
 
 
