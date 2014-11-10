@@ -211,7 +211,7 @@ Type is the clothing for words
 
 >**Note to self** : Need to be careful on what type writing you choose as every font you use gives off an impression!
 
-We then looked at how logos for branding use type and what impression. As they use primary colours and they give off the impression of plain boring logo's and fonts. They give the impression of
+We then looked at how logos for branding use type and what impression. As they use primary colours and they give off the impression of plain boring logo's and fonts.
 
 
 ![300px-burger_king_logo svg](https://cloud.githubusercontent.com/assets/8985471/4984344/f0e42642-6922-11e4-8e8c-22335db2f327.png)
@@ -222,9 +222,11 @@ We then looked at how logos for branding use type and what impression. As they u
 
 
 
+They give the impression of poor food as dear restaurants have more of a detailed logo and have fancier text and colour. They put more effort into these as they need to give off more of a impression towards their image.
 
+![9882879](https://cloud.githubusercontent.com/assets/8985471/4984841/503bacc4-6927-11e4-938f-1854b7b81686.jpg)
 
-
+![fd_logo](https://cloud.githubusercontent.com/assets/8985471/4984842/513f882a-6927-11e4-97f9-79dfe3cf36bd.jpg)
 
 
 
