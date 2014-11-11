@@ -250,14 +250,19 @@ Johannes Gutenburg created these hand cut letters into metal. He was a German bl
 ![gutenburg 2](https://cloud.githubusercontent.com/assets/8985471/4985807/63b3ac0c-6931-11e4-8b1e-242ff8fc5639.jpg)
 
 
+The monks took this bad as they were annoyed that this was being printed else were and the gods good word was being spread.
 
 
 
+Week 4
+------
+A year of Change
+================
 
-
-
-
-
+Week 5
+------
+Group work
+===========
 **Group presentation research:**
 ------------------------------
 
@@ -333,17 +338,14 @@ http://michellehippy.wordpress.com/2013/03/09/unit-1-1-research-hypnopaedia-zuza
 I feel our overall presentation went well and although I was really nervous, I presented it with confidence. The thing I need to improve on is taking my time when reading things out and not rushing through it due to nerves.
 
 
-Week 4
-------
-
-Week 5
-------
-
 Week 6
 ------
-
+Revolution and the Bauhaus
+=========================
 Week 7
 ------
+WW1 and Modernism
+===================
 
 Week 8
 ------
