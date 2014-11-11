@@ -320,7 +320,7 @@ on her next slide
 ***Slide 5-***
 
 -Very first font she made
-and ended up designing more than two dozen typeface families
+and ended up designing more than two dozen typeface families.
 
 -She created this typeface by sticking to the limitations,
 
